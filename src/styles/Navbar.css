@@ -1,0 +1,27 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #0d6efd;
+    padding: 10px 20px;
+    z-index: 1000;
+  }
+  
+  .navbar-menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .navbar-menu li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: color 0.3s;
+  }
+  
+  .navbar-menu li a:hover {
+    color: #20c997;
+  }
+  

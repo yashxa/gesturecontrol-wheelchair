@@ -1,0 +1,26 @@
+.technical-section {
+    padding: 40px 20px;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .technical-card {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    background: #f8f9fa;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .technical-card ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .technical-card li {
+    color: #6c757d;
+    font-size: 1.1rem;
+    margin: 10px 0;
+  }
+  
